@@ -1,0 +1,6 @@
+/Users/dimitrisargyropoulos/Projects/TrackingCorona/TrackingCorona/bin/Debug/TrackingCorona.exe
+/Users/dimitrisargyropoulos/Projects/TrackingCorona/TrackingCorona/bin/Debug/TrackingCorona.pdb
+/Users/dimitrisargyropoulos/Projects/TrackingCorona/TrackingCorona/obj/Debug/TrackingCorona.csprojAssemblyReference.cache
+/Users/dimitrisargyropoulos/Projects/TrackingCorona/TrackingCorona/obj/Debug/TrackingCorona.csproj.CoreCompileInputs.cache
+/Users/dimitrisargyropoulos/Projects/TrackingCorona/TrackingCorona/obj/Debug/TrackingCorona.exe
+/Users/dimitrisargyropoulos/Projects/TrackingCorona/TrackingCorona/obj/Debug/TrackingCorona.pdb

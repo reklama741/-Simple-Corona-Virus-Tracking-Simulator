@@ -1,0 +1,3 @@
+/Users/dimitrisargyropoulos/Projects/TrackingCorona/TrackingCorona/bin/Release/TrackingCorona.exe
+/Users/dimitrisargyropoulos/Projects/TrackingCorona/TrackingCorona/obj/Release/TrackingCorona.csproj.CoreCompileInputs.cache
+/Users/dimitrisargyropoulos/Projects/TrackingCorona/TrackingCorona/obj/Release/TrackingCorona.exe
